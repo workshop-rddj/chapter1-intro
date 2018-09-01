@@ -60,6 +60,9 @@ ggplot(iris.wide, aes(x = Length, y = Width, color = Part)) +
   geom_jitter() +
   facet_grid(. ~ Species)
 
+# 실습 데이터 cafe.csv & judge_b.csv를 gather 해보세요
+df_cafe <- read_csv("data/cafe.csv")
+df_health <- read_csv("data/judge_b.csv")
 
 #---------------------------------------------------------
 # Grammar of Graphics Layer Concept
