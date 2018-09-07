@@ -17,3 +17,5 @@ use_course("https://github.com/workshop-rddj/chapter1-intro/archive/master.zip")
 # 방법2
 usethis::use_course("https://github.com/workshop-rddj/chapter1-intro/archive/master.zip")
 ```
+
+![ggplot](https://github.com/workshop-rddj/chapter1-intro/blob/master/ggplot.gif)
