@@ -18,4 +18,5 @@ use_course("https://github.com/workshop-rddj/chapter1-intro/archive/master.zip")
 usethis::use_course("https://github.com/workshop-rddj/chapter1-intro/archive/master.zip")
 ```
 
+### Grammar of Graphic in ggplot2
 ![ggplot](https://github.com/workshop-rddj/chapter1-intro/blob/master/ggplot.gif)
