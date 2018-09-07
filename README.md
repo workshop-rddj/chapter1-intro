@@ -22,4 +22,4 @@ usethis::use_course("https://github.com/workshop-rddj/chapter1-intro/archive/mas
 
 ---
 
-![ggplot](https://github.com/workshop-rddj/chapter1-intro/blob/master/ggplot.gif)
+![ggplot](https://github.com/workshop-rddj/chapter1-intro/blob/master/ggplot_grey.gif)
