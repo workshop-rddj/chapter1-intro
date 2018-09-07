@@ -19,4 +19,7 @@ usethis::use_course("https://github.com/workshop-rddj/chapter1-intro/archive/mas
 ```
 
 ### Grammar of Graphic in ggplot2
+
+---
+
 ![ggplot](https://github.com/workshop-rddj/chapter1-intro/blob/master/ggplot.gif)
